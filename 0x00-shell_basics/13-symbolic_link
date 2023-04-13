@@ -1,9 +1,2 @@
 #!/bin/bash
-[Got]
-
-(0 chars long)
-
-[Expected]
-lrwxrwxrwx 1 root root 7 __ls__
-
-(32 chars long)
+ln -s /bin/ls _ls_
