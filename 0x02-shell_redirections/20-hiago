@@ -1,1 +1,2 @@
-one happy fam
+#!/bin/bash
+tr -d 'cC'
